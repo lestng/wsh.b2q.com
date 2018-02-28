@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?> <!--xml基本格式-->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > <!--检查xml代码 -->
+<suite name="demo_suite1"><!-- 测试用例集合-->
+    <listeners>
+        <listener class-name="com.b2q.wsh.monitor.WSHTestJournal"/>
+    </listeners>
+    <test name="round1"><!--第一个测试-->
+        <classes>
+            <class name="com.b2q.wsh.monitor.Monitor"/>
+            <!-- <class name="lost.TestNG2"/> &lt;!&ndash;运行class类地址&ndash;&gt;
+             <class name="lost.TestNG1"/>-->
+        </classes>
+    </test>
+    <test name="round1_1">
+        <packages>
+            <package name="com.b2q.wsh.test"/>
+        </packages>
+    </test>
+
+</suite>
