@@ -27,7 +27,7 @@ public class WSHTest extends Procondition {
         System.out.println(practical);
         logger.error("哈哈哈");
     }
-   /*@Test(priority = 2)
+   @Test(priority = 2)
     public void proLach(){
        Publish publish = new Publish(driver);
        publish.productLaunch("汽配产品1");
@@ -40,7 +40,7 @@ public class WSHTest extends Procondition {
        publish.submit_pdl.click();
        String cont = publish.contentlayu_pdl.getText();
        Assert.assertEquals(cont,"操作成功！");
-   }*/
+   }
    @Test(priority = 3)
     public void deletePro(){
        ProductAudit proaut = new ProductAudit(driver);

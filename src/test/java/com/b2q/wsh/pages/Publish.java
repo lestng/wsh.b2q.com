@@ -97,7 +97,7 @@ public class Publish {
     public Publish(WebDriver driver){
         PageFactory.initElements(driver,this);
     }
-    /*public void productLaunch(String proname){
+    public void productLaunch(String proname){
         business_order.click();
         publish_proinfo.click();
         Select select = new Select(select0_pbl);
@@ -118,10 +118,10 @@ public class Publish {
         stock_pdl.clear();
         stock_pdl.sendKeys("22");
         img_pdl.click();
-        local_pdl.sendKeys("C:\\Users\\Administrator\\Desktop\\文档\\测试文件及部分流程\\图片\\3.jpg");
+        local_pdl.sendKeys("D:\\3.jpg");
 
         kebut_pdl.click();
 
-    }*/
+    }
 
 }
