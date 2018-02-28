@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [demo_suite1]">
+  <listeners>
+    <listener class-name="com.b2q.wsh.monitor.WSHTestJournal"/>
+  </listeners>
+  <test name="round1_1(failed)">
+    <classes>
+      <class name="com.b2q.wsh.test.WSHTest">
+        <methods>
+          <include name="deletePro"/>
+          <include name="tologin" invocation-numbers="0"/>
+          <include name="beforesuiteTest"/>
+          <include name="proLach"/>
+          <include name="aftermethodTest"/>
+        </methods>
+      </class> <!-- com.b2q.wsh.test.WSHTest -->
+    </classes>
+  </test> <!-- round1_1(failed) -->
+</suite> <!-- Failed suite [demo_suite1] -->

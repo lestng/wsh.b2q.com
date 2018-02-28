@@ -1,0 +1,30 @@
+15:44:50.358 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - UserName定位已找到元素
+15:44:50.417 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - Password定位已找到元素
+15:44:50.468 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //input[@type='submit']定位已找到元素
+15:44:51.903 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - UserName定位已找到元素
+15:44:51.965 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - Password定位已找到元素
+15:44:52.018 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //input[@type='submit']定位已找到元素
+15:44:53.105 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //div[@class='layui-layer-content layui-layer-padding']定位已找到元素
+15:44:56.079 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - UserName定位已找到元素
+15:44:56.149 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - Password定位已找到元素
+15:44:56.214 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //input[@type='submit']定位已找到元素
+15:44:57.553 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - UserName定位已找到元素
+15:44:57.607 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - Password定位已找到元素
+15:44:57.697 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //input[@type='submit']定位已找到元素
+15:44:58.789 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //div[@class='layui-layer-content layui-layer-padding']定位已找到元素
+15:44:58.805 [main] ERROR com.b2q.wsh.test.WSHTest tologin - 哈哈哈
+15:45:01.652 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - UserName定位已找到元素
+15:45:01.713 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - Password定位已找到元素
+15:45:01.767 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //input[@type='submit']定位已找到元素
+15:45:03.131 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - UserName定位已找到元素
+15:45:03.227 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - Password定位已找到元素
+15:45:03.288 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //input[@type='submit']定位已找到元素
+15:45:04.371 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //div[@class='layui-layer-content layui-layer-padding']定位已找到元素
+15:45:07.219 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - UserName定位已找到元素
+15:45:07.278 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - Password定位已找到元素
+15:45:07.337 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //input[@type='submit']定位已找到元素
+15:45:18.457 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //a[@href = '/Business/Order']定位未找到元素
+15:45:21.487 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - UserName定位已找到元素
+15:45:21.545 [main] INFO  com.b2q.wsh.test.WSHTest findElementByName - Password定位已找到元素
+15:45:21.620 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //input[@type='submit']定位已找到元素
+15:45:32.758 [main] INFO  com.b2q.wsh.test.WSHTest findElementByXPath - //a[@href = '/Business/Order']定位未找到元素
