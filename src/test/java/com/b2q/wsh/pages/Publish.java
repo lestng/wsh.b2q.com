@@ -97,7 +97,7 @@ public class Publish {
     public Publish(WebDriver driver){
         PageFactory.initElements(driver,this);
     }
-    public void productLaunch(String proname){
+    /*public void productLaunch(String proname){
         business_order.click();
         publish_proinfo.click();
         Select select = new Select(select0_pbl);
@@ -122,6 +122,6 @@ public class Publish {
 
         kebut_pdl.click();
 
-    }
+    }*/
 
 }
