@@ -17,7 +17,7 @@ public class Procondition {
 
         driver.get("http://account.b2q.com/login.html");
         LoginNote loginNote=new LoginNote(driver);
-        loginNote.golongin("cs1111","123456");
+        loginNote.golongin("chuhui","123456");
     }
     @AfterMethod
     public void aftermethodTest(){
